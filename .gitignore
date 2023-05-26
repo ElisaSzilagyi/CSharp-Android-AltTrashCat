@@ -1,0 +1,6 @@
+# Build results
+AppTrashCat/
+run_tests.sh
+TrashCat.Tests/bin
+TrashCat.Tests/obj
+TrashCat.Tests/test-screenshot.png
